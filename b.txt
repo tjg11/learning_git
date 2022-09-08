@@ -1,1 +1,3 @@
 Hello this is a file only on wip branch
+
+This line of text is from the wip branch
